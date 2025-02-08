@@ -1,4 +1,4 @@
-[1] MNIST: Simple grayscale digit images.
+<p>[1] MNIST: Simple grayscale digit images.<br>
 [2] Fashion-MNIST: Grayscale clothing images (similar to MNIST).
 [3] CIFAR-10: Color images with 10 classes.
 [4] SVHN: Real-world color images of house numbers.
